@@ -18,6 +18,7 @@ app = Flask('hello-cloudbuild')
 
 @app.route('/')
 def hello():
+  print('Hello Me!')
   return "Hello World!\n"
 
 if __name__ == '__main__':
