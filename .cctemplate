@@ -1,0 +1,18 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "templates": [
+        {
+            "path": "hello-world",
+            "name": "Golang Hello World App",
+            "description": "A simple golang sample template"
+        },
+
+        {
+            "path": "hello-cloudbuild-env",
+            "name": "test",
+            "description": "A test"
+        }
+    ]
+}

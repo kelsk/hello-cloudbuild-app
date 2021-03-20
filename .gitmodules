@@ -1,0 +1,3 @@
+[submodule "hello-cloudbuild-env"]
+	path = hello-cloudbuild-env
+	url = https://github.com/kelsk/hello-cloudbuild-env
