@@ -10,7 +10,7 @@
         },
 
         {
-            "path": "hello-cloudbuild-env",
+            "path": "hello-test-subtree",
             "name": "test",
             "description": "A test"
         }
